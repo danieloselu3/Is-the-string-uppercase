@@ -1,5 +1,4 @@
-#import the string module
-import string
+import string #import the string module
 
 #define your method
 def is_uppercase(strng):
