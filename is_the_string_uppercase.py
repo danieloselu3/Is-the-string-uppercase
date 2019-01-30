@@ -1,6 +1,6 @@
 import string #import the string module
 
-#define your method
+#define your method here
 def is_uppercase(strng):
     small_caps_alphabet = string.ascii_lowercase    #create a variable that holds all the lowercase alphabets
     container = []                                  #create an empty container to hold any identified lowercase alphabets
